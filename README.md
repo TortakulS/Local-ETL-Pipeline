@@ -10,7 +10,7 @@
 
 ## Architecture
 
-CSV Files -> Extract (Pandas) -> Load (PostgreSQL) ->Transform (Python / SQL)
+CSV Files -> Extract (Pandas) -> Load (PostgreSQL) -> Transform (Python / SQL)
 
 ---
 
