@@ -1,6 +1,3 @@
-import pandas as pd
-
-
 def transform_data(datas):
     print(datas.isnull().sum())
     datas = datas.dropna(subset=['Customer ID'])
